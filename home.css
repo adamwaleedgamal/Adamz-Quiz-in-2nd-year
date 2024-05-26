@@ -1,0 +1,50 @@
+#hello{
+    margin-left: 50%;
+}
+
+#photot{
+    width: 10vw;
+    height: 10vw;
+    /* margin-left: 5vw;
+    margin-left: 10%; */
+    /* justify-content: center; */
+    /* display: flex; */
+    justify-content: space-between;
+    
+}
+
+
+#head{
+    display: inline-block;
+}
+
+
+#fstd
+{
+    margin-left: 99%;   
+
+}
+
+#sndd
+{
+ margin-left: 200%;   
+}
+
+#trdd
+{
+    margin-left: 300%;   
+}
+
+#fthd
+{
+    margin-left: 400%;   
+}
+
+#fithd{
+    margin-left: 500%;
+}
+
+#word{
+display:inline;
+margin-left: 10vw;
+}
